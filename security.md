@@ -11,4 +11,4 @@ and/or vandalism.
 # Security Measures
 
 To prevent all possibility of tampering, I have my CSE 3000 repo set so that none but I have access to edit
-this repo. As a redundant layer of protection, I have employed a ruleset for pull requests should I give another person access to edit the repo in the future.
+this repo. With no possibility of tampering, no further security measures are needed.
